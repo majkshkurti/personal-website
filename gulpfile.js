@@ -47,7 +47,7 @@ gulp.task('sass', function() {
     .pipe(csso())
     .pipe(gulp.dest('assets/css/'));
 });
-/////////
+/////////////
 /*
 * Compile fonts
 */
