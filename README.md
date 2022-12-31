@@ -1,1 +1,1 @@
-PERSONAL WEBISTE @ http://majk.me
+PERSONAL WEBISTE @ http://majkshkurti.com
